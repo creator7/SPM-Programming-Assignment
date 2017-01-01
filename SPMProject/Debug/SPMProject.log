@@ -1,0 +1,51 @@
+﻿Build started 1/1/2017 2:06:43 PM.
+     1>Project "C:\Users\abdul\OneDrive\documents\visual studio 2013\Projects\SPMProject\SPMProject\SPMProject.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(53): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(49) : definition of 'i' ignored
+                 c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(30) : definition of 'i' used
+     1>c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(69): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(49) : definition of 'i' ignored
+                 c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(30) : definition of 'i' used
+     1>c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(70): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(49) : definition of 'i' ignored
+                 c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(30) : definition of 'i' used
+     1>c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(75): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(71) : definition of 'i' ignored
+                 c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(30) : definition of 'i' used
+     1>c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(91): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(71) : definition of 'i' ignored
+                 c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(30) : definition of 'i' used
+     1>c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(92): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(71) : definition of 'i' ignored
+                 c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(30) : definition of 'i' used
+     1>c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(97): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(93) : definition of 'i' ignored
+                 c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(30) : definition of 'i' used
+     1>c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(114): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(93) : definition of 'i' ignored
+                 c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(30) : definition of 'i' used
+     1>c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(115): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(93) : definition of 'i' ignored
+                 c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(30) : definition of 'i' used
+     1>c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(120): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(116) : definition of 'i' ignored
+                 c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(30) : definition of 'i' used
+     1>c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(129): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(116) : definition of 'i' ignored
+                 c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(30) : definition of 'i' used
+     1>c:\users\abdul\onedrive\documents\visual studio 2013\projects\spmproject\spmproject\main.cpp(140): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\abdul\onedrive\documents\visual studio 2013\Projects\SPMProject\Debug\SPMProject.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\abdul\onedrive\documents\visual studio 2013\Projects\SPMProject\Debug\SPMProject.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\abdul\onedrive\documents\visual studio 2013\Projects\SPMProject\Debug\SPMProject.lib" /MACHINE:X86 Debug\BubbleSort.obj
+         Debug\InsertionSort.obj
+         Debug\main.obj
+         Debug\MergeSort.obj
+         Debug\QuickSort.obj
+         SPMProject.vcxproj -> C:\Users\abdul\onedrive\documents\visual studio 2013\Projects\SPMProject\Debug\SPMProject.exe
+     1>Done Building Project "C:\Users\abdul\OneDrive\documents\visual studio 2013\Projects\SPMProject\SPMProject\SPMProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.72
